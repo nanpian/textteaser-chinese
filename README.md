@@ -8,4 +8,3 @@ TextTeaser-Chinese文本摘要中文版
     >>> tt.summarize(title, text)
 
 You can also test TextTeaser by running `python test.py`.
-# textteaser-chinese
